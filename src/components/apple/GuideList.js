@@ -26,11 +26,11 @@ const guideList = [
     },
     {
         name: 'Search',
-        fa: 'fa fa-search'
+        el: 'el-icon-search'
     },
     {
         name: 'Bag',
-        fa: 'fa fa-shopping-bag'
+        el: 'el-icon-shopping-bag-2'
     }
 ]
 
